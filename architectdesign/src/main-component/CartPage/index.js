@@ -6,7 +6,7 @@ import Prtoducts from '../../api/product'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
 import Quantity from './quantity'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 const CartPage =() => {
     const ClickHandler = () =>{

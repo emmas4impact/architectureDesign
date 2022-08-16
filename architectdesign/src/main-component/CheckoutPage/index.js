@@ -4,7 +4,7 @@ import PageTitle from '../../components/pagetitle'
 import CheckoutSection from '../../components/CheckoutSection'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 const CheckoutPage =() => {
     return(

@@ -4,7 +4,7 @@ import PageTitle from '../../components/pagetitle'
 import BlogSingle from '../../components/BlogDetails'
 import Scrollbar from '../../components/scrollbar'
 import Footer from '../../components/footer';
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 const BlogDetailsFull =() => {
     return(

@@ -4,7 +4,7 @@ import PageTitle from '../../components/pagetitle'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
 import Testimonial from '../../components/Testimonial'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 
 const TestimonialPage =() => {

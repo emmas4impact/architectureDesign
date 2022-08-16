@@ -6,7 +6,7 @@ import { useParams } from 'react-router-dom'
 import blogs from '../../api/blogs'
 import BlogSingle from '../../components/BlogDetails'
 import Footer from '../../components/footer';
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 
 const BlogDetails =() => {

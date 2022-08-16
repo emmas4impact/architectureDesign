@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom'
-import himg from '../../images/slider/frontview.jpeg'
+import himg from '../../images/cloudy_layer.bmp'
 
 const Hero =() => {
     return (

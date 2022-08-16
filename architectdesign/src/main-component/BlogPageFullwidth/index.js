@@ -4,7 +4,7 @@ import PageTitle from '../../components/pagetitle'
 import BlogList from '../../components/BlogList'
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 
 const BlogPageFullwidth =() => {
     return(

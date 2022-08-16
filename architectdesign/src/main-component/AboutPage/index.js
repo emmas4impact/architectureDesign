@@ -10,7 +10,7 @@ import TeamSection from '../../components/TeamSection';
 import Testimonial from '../../components/Testimonial';
 import Footer from '../../components/footer'
 import Scrollbar from '../../components/scrollbar'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 import abimg from '../../images/about.jpg'
 
 

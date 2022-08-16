@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link}  from 'react-router-dom'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 import Projects from '../../api/project'
 
 
@@ -68,11 +68,11 @@ const Footer = (props) =>{
                             </div>
                             <div className="contact-ft">
                                 <ul>
-                                    <li><i className="fi flaticon-location"></i>68D, Belsion Town 2365 <br/> Fna city, LH
-                                        3656, USA</li>
-                                    <li><i className="fi flaticon-telephone"></i>+ 8 (123) 123 456 789 <br/>
-                                        + 8 (123) 123 456 789</li>
-                                    <li><i className="fi flaticon-email"></i>arkio@gmail.com</li>
+                                    <li><i className="fi flaticon-location"></i>Charity Bus Stop Oshodi, Lagos NG <br/> Lagos State,
+                                        23401, Nigeria</li>
+                                    <li><i className="fi flaticon-telephone"></i>+234 123 456 789 <br/>
+                                        + 234 123 456 789</li>
+                                    <li><i className="fi flaticon-email"></i>cadstation@gmail.com</li>
                                 </ul>
                             </div>
                         </div>
@@ -98,7 +98,7 @@ const Footer = (props) =>{
                 <div className="row">
                     <div className="col col-xs-12">
                         <ul>
-                            <li>&copy; 2022 Cad Station Design By <Link onClick={ClickHandler} to="/">wpOceans</Link>. All Rights
+                            <li>&copy; 2022 Cad Station Design By <Link onClick={ClickHandler} to="/">Emmanuel Adedeji</Link>. All Rights
                                 Reserved.</li>
                             <li><Link onClick={ClickHandler} to="/">Terms of use |</Link> <Link onClick={ClickHandler} to="/">Privacy Environmental Policy</Link></li>
                         </ul>

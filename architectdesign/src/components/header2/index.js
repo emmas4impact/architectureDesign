@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/cadstationPNG-1.png'
 import { Link } from 'react-router-dom'
 import MobileMenu from '../../components/MobileMenu'
 import Projects from '../../api/project'
